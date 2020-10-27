@@ -1,10 +1,10 @@
-#### Logo :
+#### 
 <br>
 <table>
   <tbody>
     <tr>
       <td>
-        <img src = 'https://github.com\Users\danny\OneDrive\Documents\MyCare App (Kivy)\PatientUI\Python\MyCare.png' height = 350>
+        <img src = 'https://github.com/dboyno-22/MyCare/tree/main/Images/MyCare.png' height = 350>
       </td>
       </tbody>
 </table>
