@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td>
-        <img src = 'https://github.com/dboyno-22/MyCare/blob/main/Images/MyCare.png' height = 350>
+        <img src = 'https://github.com/dboyno-22/MyCare/blob/main/Images/MyCare.png' height = 200>
       </td>
       </tbody>
 </table>
